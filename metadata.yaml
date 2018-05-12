@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1142
     wikipedia: http://en.wikipedia.org/wiki/Ralph_Connor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24724#Beyond-the-Marshes
 gutenberg_issued: '2008-03-01'
 gutenberg_type: Text
 identifiers:
