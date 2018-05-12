@@ -1,0 +1,28 @@
+_repo: Beyond-the-Marshes_24724
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Connor, Ralph
+    alias: Gordon, Charles William
+    birthdate: 1860
+    deathdate: 1937
+    gutenberg_agent_id: '1142'
+    url: http://www.gutenberg.org/2009/agents/1142
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Connor
+description: ''
+gutenberg_issued: '2008-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24724'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- Fiction'
+- !lcc 'PS'
+title: Beyond the Marshes
+url: http://www.gutenberg.org/ebooks/24724
